@@ -22,7 +22,7 @@ The script assumes it has in it's working directory the following files and fold
 * test/
 * train/
 
-The output is created in working directory with the name of tidy2.txt
+The output is created in working directory with the name of tidy_data.txt
 
 *Note:* the R script is built to run without including any libraries for the purpose of this course.
 
